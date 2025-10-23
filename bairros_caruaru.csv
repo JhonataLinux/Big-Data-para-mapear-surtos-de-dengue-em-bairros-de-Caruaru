@@ -1,0 +1,25 @@
+latitude	longitude	id	@id	IBGE:GEOCODIGO	admin_level	boundary	name	source	type	@geometry
+-8.3081754	-36.0266598	relation/9692249	relation/9692249	"260410605020"	"10"	administrative	Agamenon Magalhaes	IBGE Setores Censitários	boundary	center
+-8.2916711	-36.0150871	relation/9692272	relation/9692272	"260410605018"	"10"	administrative	Alto do Moura	IBGE Setores Censitários	boundary	center
+-8.2890306	-35.9942273	relation/9692287	relation/9692287	"260410605021"	"10"	administrative	Kennedy	IBGE Setores Censitários	boundary	center
+-8.2801614	-35.9869187	relation/9692290	relation/9692290	"260410605005"	"10"	administrative	João Mota	IBGE Setores Censitários	boundary	center
+-8.2830456	-35.9853128	relation/9692591	relation/9692591	"260410605011"	"10"	administrative	Caiuca	IBGE Setores Censitários	boundary	center
+-8.3145532	-35.9784767	relation/9692614	relation/9692614	"260410605022"	"10"	administrative	Cidade Alta	IBGE Setores Censitários	boundary	center
+-8.2959609	-35.9791173	relation/9692670	relation/9692670	"260410605015"	"10"	administrative	Petropolis	IBGE Setores Censitários	boundary	center
+-8.289712	-35.9797016	relation/9692748	relation/9692748	"260410605016"	"10"	administrative	São Francisco	IBGE Setores Censitários	boundary	center
+-8.2841163	-35.9799658	relation/9692751	relation/9692751	"260410605006"	"10"	administrative	Centenário	IBGE Setores Censitários	boundary	center
+-8.2857884	-35.9772759	relation/9692753	relation/9692753	"260410605012"	"10"	administrative	Morro do Bom Jesus	IBGE Setores Censitários	boundary	center
+-8.2796859	-35.978079	relation/9692825	relation/9692825	"260410605007"	"10"	administrative	Divinopolis	IBGE Setores Censitários	boundary	center
+-8.2827519	-35.9597498	relation/9692830	relation/9692830	"260410605004"	"10"	administrative	Riacho	IBGE Setores Censitários	boundary	center
+-8.2808676	-35.9479719	relation/9692837	relation/9692837	"260410605003"	"10"	administrative	Cedro	IBGE Setores Censitários	boundary	center
+-8.285934	-35.9701869	relation/9692848	relation/9692848	"260410605009"	"10"	administrative	Nossa Senhora das Dores	IBGE Setores Censitários	boundary	center
+-8.2975763	-35.9672863	relation/9692853	relation/9692853	"260410605002"	"10"	administrative	Vassoural	IBGE Setores Censitários	boundary	center
+-8.25888	-36.0054727	relation/9694431	relation/9694431	"260090605003"	"10"	administrative	Boa Vista	IBGE Setores Censitários	boundary	center
+-8.2380455	-35.9792876	relation/9694501	relation/9694501	"260410605019"	"10"	administrative	Nova Caruaru	IBGE Setores Censitários	boundary	center
+-8.2679629	-35.9738325	relation/9696879	relation/9696879	"260410605010"	"10"	administrative	Mauricio de Nassau	"IBGE Setores Censitários;aerial imagery"	boundary	center
+-8.2547772	-35.9613761	relation/9697139	relation/9697139	"260410605014"	"10"	administrative	Universitário	IBGE Setores Censitários	boundary	center
+-8.2968562	-35.9626336	relation/9704027	relation/9704027	"260410605024"	"10"	administrative	Santa Rosa	IBGE Setores Censitários	boundary	center
+-8.2967851	-35.9524137	relation/9704580	relation/9704580	"260410605008"	"10"	administrative	Indianópolis	IBGE Setores Censitários	boundary	center
+-8.283104	-35.9210246	relation/9708976	relation/9708976	"260410605023"	"10"	administrative	Rendeiras	IBGE Setores Censitários	boundary	center
+-8.2849639	-35.9701874	relation/9708995	relation/9708995	"260410605013"	"10"	administrative	Salgado	IBGE Setores Censitários	boundary	center
+-8.3229016	-35.9444349	relation/15667259	relation/15667259		"10"	administrative	Verde		boundary	center
